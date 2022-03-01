@@ -264,7 +264,9 @@ a {
 @media (max-width: 767px) {
     .jewellery .box {
         flex-direction: column;
-        text-aling: center;
+    }
+    .jewellery .box .text {
+        text-align: center;
     }
     .jewellery .imge {
         max-width: 384px;
